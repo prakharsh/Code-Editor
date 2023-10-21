@@ -1,8 +1,18 @@
-# React + Vite
-
+# Code Editor
+This Editor is built using React + Vite.
+for Styling this site uses Chakra UI.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# To Run this project 
+Clone the repo.
+CD into project Directory.
+Run NPM install in terminal.
+Run NPM RUN DEV in terminal.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Key Features
+This Editor is based upon Monaco Editor.
+It has Automatic Indentation Functionality.
+It also has auto format functioanlity.
+It also has the copy code and Download as JS file functioanlity.
+Currently it only works on JavaScript Syntax.
+
